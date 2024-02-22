@@ -1,0 +1,260 @@
+[14:15:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:15:58] [ServerMain/INFO]: Loaded 1174 recipes
+[14:15:58] [ServerMain/INFO]: Loaded 1271 advancements
+[14:15:58] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[14:15:58] [Server thread/INFO]: Loading properties
+[14:15:58] [Server thread/INFO]: This server is running Paper version git-Paper-430 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 4939f87)
+[14:15:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:15:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:15:59] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[14:15:59] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[14:16:00] [Server thread/INFO]: Default game type: CREATIVE
+[14:16:00] [Server thread/INFO]: Generating keypair
+[14:16:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:16:00] [Server thread/INFO]: Using epoll channel type
+[14:16:00] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:16:00] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[14:16:00] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R3.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[14:16:03] [Server thread/WARN]: Legacy plugin FarmProtect v1.9.0 does not specify an api-version.
+[14:16:03] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v4.9.2
+[14:16:03] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.2 is now loaded. Registering protocol transformers and injecting...
+[14:16:04] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[14:16:04] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[14:16:04] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[14:16:04] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[14:16:04] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.119
+[14:16:07] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[14:16:07] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.2.19+6642-415ef95
+[14:16:07] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3721b084]
+[14:16:07] [Server thread/INFO]: [WorldEdit] Default configuration file written: config.yml
+[14:16:07] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.9+5934e49
+[14:16:07] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v4.9.1
+[14:16:07] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[14:16:07] [Server thread/INFO]: [Graves] Loading server plugin Graves v4.9
+[14:16:07] [Server thread/INFO]: [Graves] Integration: Hooked into WorldGuard 7.0.9+5934e49.
+[14:16:07] [Server thread/INFO]: [DeadChest] Loading server plugin DeadChest v4.18.0
+[14:16:07] [Server thread/INFO]: [DeadChest] Worldguard support disabled by user
+[14:16:07] [Server thread/INFO]: [Zenchantments] Loading server plugin Zenchantments v19.4.0
+[14:16:07] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v22.2
+[14:16:07] [Server thread/INFO]: [DriveBackupV2] Loading server plugin DriveBackupV2 v1.6.1
+[14:16:07] [Server thread/INFO]: [VeinMiner] Loading server plugin VeinMiner v2.2.3
+[14:16:07] [Server thread/INFO]: [VeinMiner] Found WorldGuard. Registering custom region flag.
+[14:16:07] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v3.0.5
+[14:16:07] [Server thread/INFO]: [playit-gg] Loading server plugin playit-gg v0.1.4
+[14:16:07] [Server thread/INFO]: [SinglePlayerSleep] Loading server plugin SinglePlayerSleep v1.13_2.13.50
+[14:16:07] [Server thread/INFO]: [FarmProtect] Loading server plugin FarmProtect v1.9.0
+[14:16:07] [Server thread/INFO]: [GriefPrevention] Loading server plugin GriefPrevention v16.18.2
+[14:16:07] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.2.2-SNAPSHOT
+[14:16:08] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[14:16:08] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[14:16:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:16:08] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.119
+[14:16:09] [Server thread/INFO]:         __    
+[14:16:09] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.119
+[14:16:09] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[14:16:09] [Server thread/INFO]: 
+[14:16:09] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[14:16:09] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[14:16:10] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[14:16:10] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[14:16:10] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1693ms)
+[14:16:10] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[14:16:10] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[14:16:10] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[14:16:10] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[14:16:10] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[14:16:10] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.19+6642-415ef95
+[14:16:10] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[14:16:10] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[14:16:10] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
+[14:16:12] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v3.0.5
+[14:16:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:16:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:16:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:16:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:16:12] [Server thread/INFO]: Preparing level "world"
+[14:16:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:16:13] [Server thread/INFO]: Time elapsed: 290 ms
+[14:16:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:16:13] [Server thread/INFO]: Time elapsed: 72 ms
+[14:16:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:16:13] [Server thread/INFO]: Time elapsed: 211 ms
+[14:16:13] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.2
+[14:16:13] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3 (765)
+[14:16:13] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.9+5934e49
+[14:16:14] [Server thread/INFO]: [WorldGuard] Default configuration file written: config.yml
+[14:16:14] [Server thread/INFO]: [WorldGuard] Default configuration file written: config_world.yml
+[14:16:14] [Server thread/INFO]: [WorldGuard] Default configuration file written: blacklist.txt
+[14:16:14] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[14:16:14] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[14:16:14] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[14:16:14] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[14:16:14] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[14:16:14] [Server thread/INFO]: [WorldGuard] Default configuration file written: config_world.yml
+[14:16:14] [Server thread/INFO]: [WorldGuard] Default configuration file written: blacklist.txt
+[14:16:14] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[14:16:14] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[14:16:14] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[14:16:14] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[14:16:14] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[14:16:14] [Server thread/INFO]: [WorldGuard] Default configuration file written: config_world.yml
+[14:16:14] [Server thread/INFO]: [WorldGuard] Default configuration file written: blacklist.txt
+[14:16:14] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[14:16:14] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[14:16:14] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[14:16:14] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[14:16:14] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[14:16:14] [Server thread/INFO]: [WorldGuard] Loading region data...
+[14:16:14] [Server thread/INFO]: [WorldGuard] Unloading and saving region data that is currently loaded...
+[14:16:14] [Server thread/INFO]: [WorldGuard] Loading region data for loaded worlds...
+[14:16:14] [Server thread/INFO]: [WorldGuard] Loading region data...
+[14:16:14] [Server thread/INFO]: [WorldGuard] Regions saved after UUID migration! This won't happen again unless you change the relevant configuration option in WorldGuard's config.
+[14:16:14] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.1
+[14:16:14] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[14:16:14] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[14:16:14] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/config.yml
+[14:16:15] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
+[14:16:15] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/kits.yml
+[14:16:15] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[14:16:15] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[14:16:15] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[14:16:15] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[14:16:15] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[14:16:15] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/worth.yml
+[14:16:15] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/tpr.yml
+[14:16:15] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[14:16:15] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/custom_items.yml
+[14:16:15] [Server thread/INFO]: [Essentials] Using locale en
+[14:16:15] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[14:16:15] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[14:16:15] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[14:16:15] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[14:16:15] [Server thread/INFO]: [Graves] Enabling Graves v4.9
+[14:16:15] [Server thread/INFO]: [Graves] Integration: Hooked into Vault 1.7.3-b131.
+[14:16:15] [Server thread/INFO]: [Graves] Integration: Hooked into WorldEdit 7.2.19+6642-415ef95.
+[14:16:15] [Server thread/INFO]: [Graves] Integration: Hooked into WorldGuard 7.0.9+5934e49.
+[14:16:15] [Server thread/INFO]: [Graves] Integration: Hooked into MiniMessage.
+[14:16:15] [Server thread/INFO]: [Graves] Compatibility: World "world" has keepInventory set to true, Graves will not be created here.
+[14:16:15] [Server thread/INFO]: [Graves] Compatibility: Essentials Detected, make sure you don't have the essentials.keepinv or essentials.keepxp permissions.
+[14:16:16] [Server thread/INFO]: [DeadChest] Enabling DeadChest v4.18.0
+[14:16:16] [Server thread/INFO]: [Zenchantments] Enabling Zenchantments v19.4.0
+[14:16:16] [Server thread/INFO]: [Zenchantments] Switching to locale en
+[14:16:16] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v22.2
+[14:16:18] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
+[14:16:18] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[14:16:18] [Server thread/INFO]: --------------------
+[14:16:18] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[14:16:18] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[14:16:18] [Server thread/INFO]: --------------------
+[14:16:18] [Server thread/INFO]: [DriveBackupV2] Enabling DriveBackupV2 v1.6.1
+[14:16:19] [Server thread/INFO]: [DriveBackupV2] Config loaded!
+[14:16:19] [Server thread/INFO]: [DriveBackupV2] Scheduling a backup to run every 60 minutes
+[14:16:19] [Server thread/INFO]: [DriveBackupV2] Metrics started
+[14:16:19] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v2.2.3
+[14:16:19] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
+[14:16:19] [Server thread/INFO]: [VeinMiner] Added 13 aliases.
+[14:16:19] [Server thread/INFO]: [VeinMiner] Registered category with id "Axe" holding 6 unique items and 26 unique blocks.
+[14:16:19] [Server thread/INFO]: [VeinMiner] Registered category with id "Hoe" holding 6 unique items and 10 unique blocks.
+[14:16:19] [Server thread/INFO]: [VeinMiner] Registered category with id "Pickaxe" holding 6 unique items and 23 unique blocks.
+[14:16:19] [Server thread/INFO]: [VeinMiner] Registered category with id "Shears" holding 1 unique items and 27 unique blocks.
+[14:16:19] [Server thread/INFO]: [VeinMiner] Registered category with id "Shovel" holding 6 unique items and 10 unique blocks.
+[14:16:19] [Server thread/WARN]: [VeinMiner] No block list configured for category with id "Hand"! Is this intentional?
+[14:16:19] [Server thread/INFO]: [VeinMiner] Registered category with id "Hand" holding 0 unique items and 0 unique blocks.
+[14:16:19] [Server thread/INFO]: [VeinMiner] Performing an update check!
+[14:16:19] [ForkJoinPool.commonPool-worker-1/INFO]: [VeinMiner] Using SQLITE for persistent storage.
+[14:16:19] [Server thread/INFO]: [VeinMiner] Registering commands
+[14:16:19] [Server thread/INFO]: [VeinMiner] Registering events
+[14:16:19] [Server thread/INFO]: [VeinMiner] Vault found. Attempting to enable economy support...
+[14:16:19] [Server thread/INFO]: [VeinMiner] Enabling Plugin Metrics
+[14:16:19] [Server thread/INFO]: [VeinMiner] Thanks for enabling Metrics! The anonymous stats are appreciated
+[14:16:19] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
+[14:16:20] [Server thread/INFO]: [SinglePlayerSleep] Enabling SinglePlayerSleep v1.13_2.13.50
+[14:16:20] [Server thread/INFO]: §a**************************************§r
+[14:16:20] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.50§r Loading...
+[14:16:20] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.50§r Data Folder doesn't exist
+[14:16:20] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.50§r Creating Data Folder
+[14:16:20] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.50§r Data Folder Created at plugins/SinglePlayerSleep
+[14:16:20] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.50§r plugins/SinglePlayerSleep/config.yml
+[14:16:20] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.50§r config.yml not found, creating!
+[14:16:20] [Server thread/INFO]: Checking for updates...
+[14:16:20] [ForkJoinPool.commonPool-worker-1/INFO]: [VeinMiner] You are on the latest version of VeinMiner.
+[14:16:21] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.50§r *!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*
+[14:16:21] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.50§r * Version is up to date!
+[14:16:21] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.50§r * Donate: https://ko-fi.com/joelgodofwar
+[14:16:21] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.50§r *!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*!*
+[14:16:21] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.50§r plugins/SinglePlayerSleep/permissions.yml
+[14:16:21] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.50§r permissions.yml not found, creating! This is a sample only!
+[14:16:21] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.50§r This server is running Paper version git-Paper-430 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT)
+[14:16:21] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.50§r vardebug=false debug=error in plugins/SinglePlayerSleep/config.yml
+[14:16:21] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.50§r jarfilename=/workspaces/Minecraft-Server-Hosting/plugins/SinglePlayerSleep-1.13_2.13.50.jar
+[14:16:21] [Server thread/INFO]: §a**************************************§r
+[14:16:21] [Server thread/INFO]: §eSinglePlayerSleep v1.13_2.13.50§r is ENABLED - Loading took 973 ms.
+[14:16:21] [Server thread/INFO]: §a**************************************§r
+[14:16:21] [Server thread/INFO]: [FarmProtect] Enabling FarmProtect v1.9.0*
+[14:16:21] [Server thread/INFO]: [FarmProtect] Cannot find config.yml, Generating now....
+[14:16:21] [Server thread/INFO]: [FarmProtect] Config generated !
+[14:16:22] [Thread-17/ERROR]: [FarmProtect] The updater could not access files at: /workspaces/Minecraft-Server-Hosting/plugins/update
+[14:16:23] [Thread-16/INFO]: [gg.playit.minecraft.PlayitKeysSetup] secret key not set, generate claim code: 33cb621af9d2d326
+[14:16:23] [Thread-16/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[14:16:23] [Thread-17/INFO]: [FarmProtect] About to download a new update: FarmProtect v1.9.0
+[14:16:23] [Thread-17/INFO]: [FarmProtect] Downloading update: 60% of 42920 bytes.
+[14:16:23] [Thread-17/INFO]: [FarmProtect] Downloading update: 70% of 42920 bytes.
+[14:16:23] [Thread-17/INFO]: [FarmProtect] Downloading update: 100% of 42920 bytes.
+[14:16:23] [Thread-17/INFO]: [FarmProtect] Finished updating.
+[14:16:23] [Server thread/INFO]: [FarmProtect] Version 1.9.0 by jacklin213 has been Enabled!
+[14:16:23] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18.2
+[14:16:23] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[14:16:23] [Server thread/INFO]: [GriefPrevention] 0 total claims loaded.
+[14:16:23] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[14:16:23] [Server thread/INFO]: [GriefPrevention] Successfully hooked into WorldGuard.
+[14:16:23] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[14:16:24] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[14:16:24] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.2.2-SNAPSHOT
+[14:16:24] [Thread-16/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/33cb621af9d2d326
+[14:16:24] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[14:16:24] [Server thread/INFO]: [Geyser-Spigot] 
+[14:16:24] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.2.2-SNAPSHOT (git-master-aca368e)
+[14:16:24] [Server thread/INFO]: [Geyser-Spigot] 
+[14:16:24] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[14:16:27] [Thread-16/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[14:16:27] [Thread-16/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/33cb621af9d2d326
+[14:16:29] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
+[14:16:29] [Server thread/INFO]: [Geyser-Spigot] Done (5.357s)! Run /geyser help for help!
+[14:16:29] [Server thread/INFO]: Running delayed init tasks
+[14:16:29] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[14:16:29] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[14:16:29] [Server thread/INFO]: Done (31.299s)! For help, type "help"
+[14:16:29] [Server thread/INFO]: Timings Reset
+[14:16:29] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[14:16:29] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
+[14:16:29] [Craft Scheduler Thread - 5 - DriveBackupV2/INFO]: [DriveBackupV2] Checking for updates...
+[14:16:29] [Craft Scheduler Thread - 9 - Vault/INFO]: [Vault] Checking for Updates ... 
+[14:16:29] [Craft Scheduler Thread - 9 - Vault/INFO]: [Vault] No new version available
+[14:16:30] [ForkJoinPool.commonPool-worker-1/WARN]: [Geyser-Spigot] Missing MC locale file: en_us
+[14:16:30] [ForkJoinPool.commonPool-worker-2/INFO]: [Geyser-Spigot] Downloading Minecraft JAR to extract required files, please wait... (this may take some time depending on the speed of your internet connection)
+[14:16:30] [Thread-16/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[14:16:30] [Thread-16/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/33cb621af9d2d326
+[14:16:31] [ForkJoinPool.commonPool-worker-2/INFO]: [Geyser-Spigot] Minecraft JAR has been successfully downloaded and loaded!
+[14:16:33] [Thread-16/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[14:16:34] [Thread-16/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/33cb621af9d2d326
+[14:16:37] [Thread-16/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[14:16:37] [Thread-16/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/33cb621af9d2d326
+[14:16:40] [Thread-16/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[14:16:41] [Thread-16/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/33cb621af9d2d326
+[14:16:44] [Thread-16/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[14:16:44] [Thread-16/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/33cb621af9d2d326
+[14:16:47] [Thread-16/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[14:16:47] [Thread-16/INFO]: [gg.playit.minecraft.PlayitKeysSetup] failed to exchange, to claim visit: https://playit.gg/mc/33cb621af9d2d326
+[14:16:50] [Thread-16/INFO]: [gg.playit.minecraft.PlayitKeysSetup] trying to exchange claim code for secret
+[14:16:51] [Thread-16/INFO]: [gg.playit.minecraft.PlayitKeysSetup] check secret
+[14:16:52] [Thread-16/INFO]: [gg.playit.minecraft.PlayitKeysSetup] create new minecraft java tunnel
+[14:16:55] [Thread-16/INFO]: [gg.playit.minecraft.PlayitKeysSetup] found minecraft java tunnel: inside-wins.joinmc.link
+[14:16:55] [Thread-16/INFO]: [gg.playit.minecraft.PlayitManager] keys and tunnel setup
+[14:16:55] [Thread-16/INFO]: playit.gg: tunnel setup
+[14:16:55] [Thread-16/INFO]: playit.gg: inside-wins.joinmc.link
+[14:16:56] [Thread-16/WARN]: [gg.playit.control.ChannelSetup] Got IO error working with :control.playit.gg/2602:fbaf:840:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
+[14:16:56] [Thread-16/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[14:16:57] [Thread-16/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[14:20:59] [Thread-16/INFO]: [gg.playit.control.ChannelSetup] send keep alive
