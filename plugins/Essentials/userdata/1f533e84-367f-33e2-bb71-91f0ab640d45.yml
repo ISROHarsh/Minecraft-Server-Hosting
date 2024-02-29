@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709192942968
+  login: 1709192879294
+money: '0'
+last-account-name: NotMurliXD
+logoutlocation:
+  world: 8003b472-726a-4cab-97f7-620e24b66b8d
+  world-name: world
+  x: 270.00627574514056
+  y: 82.5
+  z: 99.28035573462883
+  yaw: 137.10183715820312
+  pitch: 61.799800872802734
