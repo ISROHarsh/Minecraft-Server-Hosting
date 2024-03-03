@@ -1,0 +1,106 @@
+potion:
+  enable: false
+  effect: BLINDNESS
+  level: 1
+totem-first: false
+relivingTime: 10
+itemSteal: false
+disbleWorldsEnable: true
+enableWorldsEnable: false
+disableWorlds:
+- world1
+- world2
+- world3
+enableWorlds:
+- world1
+- world2
+- world3
+delays:
+  deathDelay: 90
+  invulnerabilityDelay: 30
+info:
+  scoreboard: true
+  title: false
+  chat: false(not implemented)
+title:
+  title: '&fstatus : <STATUS> <BAR>'
+  subTitle: '&fDeah In: &a<DEATHTIME> &f<INVULNERABILITY>'
+scoreboard:
+  title: '&4&l[&e&lRevive&f&lMe&4&l]'
+  status: '&fStatus: '
+  waiting: '&cWaiting'
+  reliving: '&aReliving'
+  deathIn: '&fDeath In &a<TIME>'
+  invulnerableFor: '&fInvulnerable for &a<TIME>'
+  vulnerable: '&cVulnerable'
+playersConfig:
+  speed: 0.04
+messages:
+  reliving:
+    player: '&aYou are reviving &2<VICTIM>.'
+    victim: '&a<PLAYER> is reviving you.'
+  revivedSuccessfully:
+    player: '&aYou have successfully revived &2<VICTIM>.'
+    victim: '&aYou have been revived by &2<PLAYER>.'
+  cancelReliving:
+    player: '&cYou stopped reviving &4<VICTIM>.'
+    victim: '&c<PLAYER> has stopped reviving you.'
+  shotDown:
+    player: '&aYou have shot down <VICTIM>'
+    victim: '&c<PLAYER> has shot you down.'
+  reload: '&aThe configuration was successfully reloaded.'
+  blockedCommand: '&cYou cannot use this command in your current state.'
+  noPermission: '&cyou do not have the permission <PERMISSION>'
+permissions:
+  revivePlayerEnablePermission: false
+  reviveVictimEnablePermission: false
+  itemStealPlayer: false
+  itemStealVictim: false
+sounds:
+  reliving: 1
+  noPermission: ENTITY_VILLAGER_NO
+  revivedSuccessfully: ENTITY_MAGMA_CUBE_JUMP
+commands-blacklist:
+- sethome
+- createhome
+- tpahere
+- tpaccept
+- tpyes
+- tpa
+- call
+- tpask
+- ehome
+- ehomes
+- esethome
+- ecreatehome
+- etpahere
+- etpaccept
+- etpyes
+- etpa
+- ecall
+- etpask
+- essentials:sethome
+- essentials:createhome
+- essentials:tpahere
+- essentials:tpaccept
+- essentials:tpyes
+- essentials:tpa
+- essentials:call
+- essentials:tpask
+- wtp
+- uspawn
+- utp
+- mtp
+- ftp
+relivedHealth: 0.5
+CitizensCompatibility:
+  enable: false
+  damagedNpc: false
+CrackShotCompatibility:
+  enable: false
+  useWeaponIfDamaged: false
+EnableForceDeath: true
+QualityArmoryCompatibility:
+  enable: false
+  useWeaponIfDamaged: false
+newVersionPremiumMessageDisable: true
